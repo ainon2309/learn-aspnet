@@ -1,3 +1,9 @@
+# TEAM MEMBER
+1.	Nur Ainon Binti Yusmadi – SX172096CSJF04
+2.	Sobery Bin Basri – SX180091CSJS04
+3.	Savith Kumar Raj Gulab – SX180279CSJS04
+4.	Mohammad Hafizzuddin Bin Mohd Zin – SX180405CSJS04
+
 # PROJECT DESCRIPTION
 In this group project, students will need to develop a functional data-centric online system. The
 minimum requirements for the implemented system must satisfy the points below:
